@@ -9,10 +9,11 @@ Descrição: Calcular uma estimativa de quanto sua casa consome de eletricidade,
 
 O tutorial usado foi: https://www.youtube.com/watch?v=_vZ1vUWu4sQ , no qual foi criado um bloco de notas.
 O resultado do tutorial segue abaixo:
-![tutorial](tutorial.jpg)
+
+![tutorial_imagem](tutorial.jpg)
 
 E o esboço GUI:
 
-![projeto](projeto.jpg)
+![projeto_imagem](projeto.jpg)
 
 

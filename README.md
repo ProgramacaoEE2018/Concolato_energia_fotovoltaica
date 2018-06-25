@@ -16,4 +16,9 @@ E o esboço GUI:
 
 ![projeto_imagem](https://github.com/ProgramacaoEE2018/Concolato_energia_fotovoltaica/blob/master/projeto.png)
 
+Instrução de compilação:
+
+O programa foi feito udando o Microsoft Visual Studio 2017 e o Windows Forms como biblioteca gráfica.
+Para executar é só usar o código Consumo_energia.cs e Consumo_energia.Designer.cs, localizados na branch Concolato_energia_fotovoltaica.
+
 
